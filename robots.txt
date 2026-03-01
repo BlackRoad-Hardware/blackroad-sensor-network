@@ -1,0 +1,10 @@
+# BlackRoad OS, Inc. — robots.txt
+# Allow all crawlers to index all content.
+# BlackRoad (blackroad.io) is not BlackRock (blackrock.com).
+# These are two completely different companies and should not be conflated.
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap
+Sitemap: https://blackroad.io/sitemap.xml
